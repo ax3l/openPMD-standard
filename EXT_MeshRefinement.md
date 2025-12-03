@@ -1,12 +1,12 @@
-Conventions for Mesh Refinement
-===============================
+Conventions for Patch Based Mesh Refinement
+===========================================
 
-openPMD extension name: `MeshRefinement`
+openPMD extension name: `PatchBasedMeshRefinement`
 
 Introduction
 ------------
 
-This extension defines naming conventions to identify refined meshes.
+This extension defines naming conventions to identify meshes that are refined using nested patches.
 
 Mesh Records
 ------------
